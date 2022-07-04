@@ -4,7 +4,6 @@
 * [Roadmap](docs/roadmap.md)
 * [Weekly Report](docs/report.md)
 
-```
 ### 
 Real Life Scenario:
 * Many individuals enjoy exercising outdoors, but do not know where to exercise. When we take a random path and start exploring, sometimes we encounter a lot of traffic, potholes, and other issues.
@@ -24,5 +23,5 @@ Continued: There are *MANY* more ways to streamline this project. Begin with pro
 
 Note to self:
 check out how *.md files can be converted to .doc and .pdf
-```
+
 
