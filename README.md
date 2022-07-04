@@ -1,4 +1,4 @@
-# 2020a7ps1687p
+# Workout Path Generator
 
 
 * [Roadmap](docs/roadmap.md)
