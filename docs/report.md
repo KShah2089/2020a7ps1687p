@@ -14,7 +14,7 @@ description: PS1 weekly report
 
 ## Week-2
 > 4th-Jun'22 to 8th-Jun'22
-> GOAL: complete 90% of the coding, have an MVP ready
+* *GOAL*: complete 90% of the coding, have an MVP ready
 * have sketched out first 2 phases of development, and documented in [excel](https://docs.google.com/spreadsheets/d/171wyH77TxpN0D9gTfAqGk0wO5TWLQzKr6C5n-GLN65o/edit?usp=sharing)
 * began writing code in HTML/CSS/JavaScript based on [MapmyIndia's documentation](https://about.mappls.com/api/advanced-maps/doc/interactive-map-api)
  
